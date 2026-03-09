@@ -30,6 +30,8 @@ Sistema permite escolher entre classificação por quiz ou por IA.
 [ Quiz Biológico ]  [ Classificação por IA ]
 ```
 
+![Menu](imagens/screenshots/menu.jpg)
+
 ### Quiz Biológico
 
 O usuário responde perguntas como:
@@ -41,6 +43,8 @@ O usuário responde perguntas como:
 
 Com base nas respostas o sistema classifica automaticamente o animal.
 
+![Quiz](imagens/screenshots/quiz.jpg)
+
 ### Classificação por IA
 
 O usuário pode:
@@ -48,6 +52,8 @@ O usuário pode:
 1. Selecionar uma imagem de animal
 2. Enviar para análise
 3. O sistema utiliza **IA para identificar a classe do animal**
+
+![Classificação por IA](imagens/screenshots/ia.jpg)
 
 ---
 
